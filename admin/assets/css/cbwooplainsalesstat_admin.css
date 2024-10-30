@@ -1,0 +1,58 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+.cbwooplainsalesstat_button_wrapper {
+    margin: 10px 0;
+}
+
+.cbwooplainsalesstat {
+    margin-left: 10px !important;
+}
+
+.cbwooplainstatdatewrapper {
+    float: left !important;
+    margin-bottom: 20px;
+}
+
+.cbwooplainstatsummarywrapper {
+    float: left !important;
+    margin-left: 30px;
+}
+
+.cbstattitle {
+    margin-left: 10px;
+}
+
+.metabox-holder-cbxwoopainstatsettings {
+    margin-top: -27px !important;
+}
+
+.metabox-holder-cbxwoopainstatsettings th {
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.nav-tab-active {
+    background-color: #fff;
+}
+
+.cbwooplainsalesstat_productlisttable td {
+    background-color: #fff;
+    margin: 10px 0px;
+    padding: 20px;
+}
+
+.cbwooplainsalesstat_productlisttable {
+    margin: 10px 0px;
+}
+
+.cbwooplainsalesstat_productlisttable td:first-child {
+    margin-right: 10px;
+}
+
+.cbchartlabel {
+    margin-right: 10px;
+}
+
+.cbxsalesreportchart_draw {
+    height: 400px;
+    width: 400px;
+}

@@ -1,0 +1,257 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-16 10:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: cbwooplainsalesstat.php:22
+msgid "CBX Woocommerce Sales Stat"
+msgstr ""
+
+#: cbwooplainsalesstat.php:61
+#, php-format
+msgid ""
+"<strong>CBX Woocommerce Sales Stat</strong> requires %sWoocommerce%s to be "
+"installed & activated!"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:114
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:115
+msgid "Select tabs you want to show"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:124
+msgid "Monthly Report"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:125
+msgid "Show monthly report (this is default and will always remain active )"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:222
+msgid "Order Amount"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:223
+msgid "Order Number"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:224
+msgid "Order Item Number"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:263
+#: admin/class-cbwooplainsalesstat-admin.php:270
+msgid "Prev"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:287
+msgid "Current Month"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:319
+msgid "Next"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:463
+msgid "Monthly"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:498
+#: admin/views/cbstatsettingsadmin.php:13
+msgid "Grab Pro"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:500
+msgid "CBX Woo Sales Report"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:577
+msgid "Report in chart"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:644
+msgid "monthly"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:656
+msgid "Export as CSV"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:657
+msgid "Export as xls"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:658
+msgid "Export as xlsx"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:659
+msgid "Export as Pdf"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:696
+#, php-format
+msgid "Daily Sales Log for Month %s"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:705
+#: admin/class-cbwooplainsalesstat-admin.php:717
+#: admin/class-cbwooplainsalesstat-admin.php:919
+#: admin/class-cbwooplainsalesstat-admin.php:931
+msgid "Day"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:706
+#: admin/class-cbwooplainsalesstat-admin.php:718
+#: admin/class-cbwooplainsalesstat-admin.php:920
+#: admin/class-cbwooplainsalesstat-admin.php:932
+msgid "No. Orders"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:707
+#: admin/class-cbwooplainsalesstat-admin.php:719
+#: admin/class-cbwooplainsalesstat-admin.php:921
+#: admin/class-cbwooplainsalesstat-admin.php:933
+msgid "Total Items"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:708
+#: admin/class-cbwooplainsalesstat-admin.php:720
+#: admin/class-cbwooplainsalesstat-admin.php:922
+#: admin/class-cbwooplainsalesstat-admin.php:934
+#, php-format
+msgid "Discount (%s)"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:709
+#: admin/class-cbwooplainsalesstat-admin.php:721
+#: admin/class-cbwooplainsalesstat-admin.php:923
+#: admin/class-cbwooplainsalesstat-admin.php:935
+#, php-format
+msgid "Shipping (%s)"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:710
+#: admin/class-cbwooplainsalesstat-admin.php:722
+#: admin/class-cbwooplainsalesstat-admin.php:924
+#: admin/class-cbwooplainsalesstat-admin.php:936
+#, php-format
+msgid "Tax (%s)"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:711
+#: admin/class-cbwooplainsalesstat-admin.php:723
+#: admin/class-cbwooplainsalesstat-admin.php:925
+#: admin/class-cbwooplainsalesstat-admin.php:937
+#, php-format
+msgid "Order Amount (%s)"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:712
+#: admin/class-cbwooplainsalesstat-admin.php:724
+msgid "Progress"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:809
+msgid "Month At a Glance"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:813
+#, php-format
+msgid "Month To Date Sales : %s"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:814
+#, php-format
+msgid "Total Orders : %s"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:815
+#, php-format
+msgid "Total Items : %s"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:816
+#, php-format
+msgid "Average Sales/Day : %s"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:817
+#, php-format
+msgid "Avg Orders Per Day : %s"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:818
+#, php-format
+msgid "Forecasted Sales : %s"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:862
+msgid "\">CBX Woo Sales Report</a>."
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:916
+msgid "CBX Woo Sales Report of Month "
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:926
+#: admin/class-cbwooplainsalesstat-admin.php:938
+msgid "Progress (%)"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:1010
+msgid "Total"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:1018
+msgid "CBX-Woo-Sales-Report-of-Month-"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:1060
+#: admin/class-cbwooplainsalesstat-admin.php:1061
+#: admin/class-cbwooplainsalesstat-admin.php:1062
+msgid "Sales Statement"
+msgstr ""
+
+#: admin/class-cbwooplainsalesstat-admin.php:1063
+msgid "Sales Statement "
+msgstr ""
+
+#: admin/includes/cbwooplainstatfunctions.php:18
+msgid "Report in Chart"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Woo Sales Stat"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sales Stat For Woocommerce"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"http://codeboxr.com/product/woocommerce-plain-sales-report-for-wordpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""
